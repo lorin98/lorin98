@@ -1,8 +1,8 @@
 ##  👋 Hi, I'm Lorenzo Nicoletti
-I am an Italian student who graduated in **Computer Engineering** (110/110 cum Laude) and I am currently enrolled in the second year of the Master of Science in **Artificial Intelligence and Robotics** at [La Sapienza, University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home).
+I am an Italian student who graduated in **Computer Engineering** (110/110 cum Laude) and in **Artificial Intelligence and Robotics** (110/110 cum Laude, again!😅) at [La Sapienza, University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home).
 
 ## 👀 I’m interested in ..
-.. anything related to Machine/Deep Learning, robotics and software development.
+.. anything related to Machine/Deep Learning, Robotics and Software Development.
 
 ## :computer: Languages and Tools
 - **Programming languages:** Python, C, C++, Java, Assembly x86, SQL, MATLAB
